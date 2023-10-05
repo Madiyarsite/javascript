@@ -1,5 +1,5 @@
 'use strict'
-a = 5;
+a = 55;
 console.log(a);
 // let person = {
 //     name: 'Madiyar',
